@@ -6,6 +6,8 @@
 
 This project features a dynamic and visually appealing weather forecast dashboard built using Microsoft Power BI. It leverages a live API connection to [weatherapi.com](https://www.weatherapi.com/) to display real-time weather data, which is refreshed daily through scheduled updates in the Power BI service.
 
+Interactive Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiOWJjOTdkMmEtMWNkYy00MWQyLTk2YjUtYmIzMzJjOTI2OGVhIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
 ## 📋 Table of Contents
 
   - [Project Overview](https://www.google.com/search?q=%23-project-overview)
