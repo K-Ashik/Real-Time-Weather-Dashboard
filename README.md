@@ -1,7 +1,7 @@
 # Real-Time-Weather-Dashboard
 
 
-
+<img src="weather_dashboard.png" alt="A screenshot of the real-time weather forecast dashboard showing various metrics like temperature, air quality, and a 7-day forecast." width="800">
 
 
 This project features a dynamic and visually appealing weather forecast dashboard built using Microsoft Power BI. It leverages a live API connection to [weatherapi.com](https://www.weatherapi.com/) to display real-time weather data, which is refreshed daily through scheduled updates in the Power BI service.
